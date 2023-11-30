@@ -1,4 +1,4 @@
-package com.example.testtaskaeon.presentation.fragments
+package com.example.testtaskaeon.presentation.view.fragments
 
 import android.os.Bundle
 import android.view.View
@@ -8,7 +8,6 @@ import com.example.testtaskaeon.R
 import com.example.testtaskaeon.data.model.UserAuthRequest
 import com.example.testtaskaeon.data.repository.AuthResult
 import com.example.testtaskaeon.databinding.FragmentLoginBinding
-import com.example.testtaskaeon.presentation.basefragment.BaseFragment
 import com.example.testtaskaeon.presentation.viewModels.AuthUserViewModel
 import com.example.testtaskaeon.utils.Constants
 

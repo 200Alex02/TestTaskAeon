@@ -1,4 +1,4 @@
-package com.example.testtaskaeon.presentation.fragments
+package com.example.testtaskaeon.presentation.view.fragments
 
 import android.os.Bundle
 import android.view.View
@@ -6,8 +6,7 @@ import androidx.fragment.app.viewModels
 import com.example.testtaskaeon.R
 import com.example.testtaskaeon.data.repository.PaymentsResult
 import com.example.testtaskaeon.databinding.FragmentPaymentsBinding
-import com.example.testtaskaeon.presentation.PaymentsAdapter
-import com.example.testtaskaeon.presentation.basefragment.BaseFragment
+import com.example.testtaskaeon.presentation.view.adapters.PaymentsAdapter
 import com.example.testtaskaeon.presentation.viewModels.PaymentViewModel
 import com.example.testtaskaeon.utils.Constants
 

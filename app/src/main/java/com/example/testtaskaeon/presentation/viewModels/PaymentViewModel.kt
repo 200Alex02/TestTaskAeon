@@ -6,7 +6,7 @@ import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
 import com.example.testtaskaeon.data.repository.PaymentRepositoryImpl
 import com.example.testtaskaeon.data.repository.PaymentsResult
-import com.example.testtaskaeon.domain.PaymentsUseCase
+import com.example.testtaskaeon.domain.usecase.PaymentsUseCase
 import kotlinx.coroutines.launch
 
 class PaymentViewModel : ViewModel() {

@@ -7,7 +7,7 @@ import androidx.lifecycle.viewModelScope
 import com.example.testtaskaeon.data.model.UserAuthRequest
 import com.example.testtaskaeon.data.repository.AuthResult
 import com.example.testtaskaeon.data.repository.AuthUserRepositoryImpl
-import com.example.testtaskaeon.domain.AuthenticateUserUseCase
+import com.example.testtaskaeon.domain.usecase.AuthenticateUserUseCase
 import kotlinx.coroutines.launch
 
 class AuthUserViewModel : ViewModel() {

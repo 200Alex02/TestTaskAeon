@@ -1,4 +1,4 @@
-package com.example.testtaskaeon.presentation
+package com.example.testtaskaeon.presentation.view.adapters
 
 import android.view.LayoutInflater
 import android.view.View

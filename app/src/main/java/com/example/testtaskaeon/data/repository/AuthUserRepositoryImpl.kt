@@ -3,7 +3,7 @@ package com.example.testtaskaeon.data.repository
 import com.example.testtaskaeon.data.api.RetrofitDispatcher
 import com.example.testtaskaeon.data.model.UserAuthRequest
 import com.example.testtaskaeon.data.model.UserAuthResponse
-import com.example.testtaskaeon.domain.AuthUserRepository
+import com.example.testtaskaeon.domain.repository.AuthUserRepository
 
 class AuthUserRepositoryImpl : AuthUserRepository {
 

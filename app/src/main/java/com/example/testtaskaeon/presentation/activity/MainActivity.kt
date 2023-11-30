@@ -1,10 +1,10 @@
-package com.example.testtaskaeon.presentation
+package com.example.testtaskaeon.presentation.activity
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import com.example.testtaskaeon.R
 import com.example.testtaskaeon.databinding.ActivityMainBinding
-import com.example.testtaskaeon.presentation.fragments.LoginFragment
+import com.example.testtaskaeon.presentation.view.fragments.LoginFragment
 
 class MainActivity : AppCompatActivity() {
 

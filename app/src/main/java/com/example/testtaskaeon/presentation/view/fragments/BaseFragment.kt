@@ -1,4 +1,4 @@
-package com.example.testtaskaeon.presentation.basefragment
+package com.example.testtaskaeon.presentation.view.fragments
 
 import android.os.Bundle
 import android.view.LayoutInflater
